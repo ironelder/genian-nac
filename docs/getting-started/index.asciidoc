@@ -1,0 +1,5 @@
+= Genian NAC Installation Guide
+
+include::getting-started.asciidoc[]
+include::prerequest.asciidoc[]
+include::installing.asciidoc[]

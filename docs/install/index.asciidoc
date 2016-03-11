@@ -1,3 +1,0 @@
-= Genian NAC Installation Guide
-
-include::test.asciidoc[]
