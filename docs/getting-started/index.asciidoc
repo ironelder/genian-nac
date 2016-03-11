@@ -1,5 +1,7 @@
-= Genian NAC Installation Guide
+= Genian NAC Getting Started
 
-include::getting-started.asciidoc[]
-include::prerequest.asciidoc[]
-include::installing.asciidoc[]
+include::overview.asciidoc[]
+include::pre-requested.asciidoc[]
+include::install-server.asciidoc[]
+include::install-virtualmachine.asciidoc[]
+include::initial-setup.asciidoc[]

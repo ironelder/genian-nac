@@ -1,0 +1,61 @@
+= Genian NAC
+
+[[pre-requested]]
+== Pre-Requested
+This is Pre-Requested Guide 
+
+=== Required Components
+Genian NAC has required component for deployment.
+
+Policy Center:: Storing and Managing data from sensor or agent. And provide administrator user interface.
+Network Sensor:: Connect Access Port or Trunk port to switch for monitoring networks packet and scanning.
+Wireless Sensor:: Scanning wireless SSID and connections. System must have at least one wireless adapter support dual-band radio (802.11 a/b/g/n)
+Agent:: Collection endpoint information and control desktop.
+
+Policy Center, Network Sensor and Wireless Sensor can running on same system.
+
+[NOTE]
+Community Edition only provide single system deployment. Policy Center, Network Sensor, Wireless Sensor must place in single server.
+
+=== System Selection
+Genian NAC Policy Center and Sensors can install generic Intel Server or Virtual Machine
+
+Generic Intel Server::
+	Best for large enterprise (over 1,000 endpoints) Policy Center.
+Virtual Machine::
+	Best for scalable Policy Center or Testing Purpose.
+Mini PC::
+	Best for SME's (Small Medium Enterprise) Policy Center and Sensor. Most Mini PC have built-in wireless adapter. best selection for network and wireless sensor.
+	- Intel NUC
+	- Gigabyte BRIX
+	- MSI Cubic
+	- ASRock beebox
+	- Zotec
+
+=== Supported Hypervisors
+Genian NAC support virtual machine installation.
+
+- VMWare ESXi
+- Citrix Xen Server
+- VMWare Workstation
+- Parallels
+- Virtual Box
+
+=== Minimum Requirements
+Policy Center:: 4GB Memory and 200GB Storage
+Network/Wireless Sensor:: 2GB Memory and 4GB Storage
+
+=== Download Software
+Genian NAC software download provide here: http://www.genians.com/download
+
+=== Installation Media
+Genian NAC software provide by bootable ISO image. you need CD-ROM drive and CD-Writer, Or USB memory stick for creating bootable USB memory.
+
+[NOTE]
+This step is only required installing on Physical Server.
+
+==== Creating Bootable CD-ROM
+How to create CD-ROM
+
+==== Creating Bootable USB
+How to create USB memory.

@@ -1,0 +1,4 @@
+[[install-virtualmachine]]
+== Install on Virtual Machine
+
+This is Installation Guide
