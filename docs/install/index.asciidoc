@@ -1,4 +1,3 @@
-[[genian-nac-reference]]
 = Genian NAC Installation Guide
 
 include::test.asciidoc[]
