@@ -1,0 +1,18 @@
+= Deployment
+
+[partintro]
+This chapter describe about deployment
+
+== Add network connection to sensor
+
+If your sensor device support more than 1 network connection, you can add more network connection to sensor.
+
+=== Console Access
+
+First, you need access to console. through monitor or serial console, you can access command line interface.
+
+==== VGA Console
+VGA Console
+
+==== Serial Console
+Serial Console
