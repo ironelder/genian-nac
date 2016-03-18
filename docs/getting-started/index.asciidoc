@@ -1,7 +1,12 @@
 = Genian NAC Getting Started
 
 include::overview.asciidoc[]
-include::pre-requested.asciidoc[]
+include::system-requirements.asciidoc[]
+include::network-requirements.asciidoc[]
 include::install-server.asciidoc[]
+include::install-minipc.asciidoc[]
 include::install-virtualmachine.asciidoc[]
+include::install-sensor.asciidoc[]
 include::initial-setup.asciidoc[]
+include::install-agent.asciidoc[]
+include::access-web-console.asciidoc[]

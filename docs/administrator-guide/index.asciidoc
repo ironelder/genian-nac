@@ -1,3 +1,0 @@
-= Genian NAC Administrator Guide
-
-include::installation.asciidoc[]

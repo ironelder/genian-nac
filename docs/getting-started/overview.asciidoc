@@ -1,8 +1,31 @@
 [[overview]]
-== Overview
-.What is Genian NAC?
-This is a paragraph
-even though it contains
-line breaks.
+== Genian NAC Overview
 
-NOTE: This is a second paragraph.
+[float]
+=== What is Genian NAC
+Genian NAC is Network Access Control Solution.
+
+[float]
+=== Components
+Genian NAC has required component for deployment.
+
+Policy Center:: Storing and Managing data from sensor or agent. And provide administrator user interface.
+Network Sensor:: Connect Access Port or Trunk port to switch for monitoring networks packet and scanning.
+Wireless Sensor:: Scanning wireless SSID and connections. System must have at least one wireless adapter support dual-band radio (802.11 a/b/g/n)
+Agent:: Collection endpoint information and control desktop.
+
+Policy Center, Network Sensor and Wireless Sensor can running on same system.
+
+[NOTE]
+Community Edition only provide single system deployment. Policy Center, Network Sensor, Wireless Sensor must place in single server.
+
+[float]
+=== Deployment model
+deployment model
+
+[float]
+=== Editions
+
+Community Edition:: free version
+Business Edition:: business
+Enterprise Edition:: for large enterprise.

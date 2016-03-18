@@ -1,0 +1,6 @@
+[[node-management]]
+= Node Management
+
+include::howto-search.asciidoc[]
+include::howto-delete.asciidoc[]
+include::howto-change-table-column.asciidoc[]

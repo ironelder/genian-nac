@@ -1,0 +1,4 @@
+[[howto-change-table-column]]
+== How to change table column
+
+ldksjf

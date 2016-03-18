@@ -1,3 +1,0 @@
-= Visibility
-
-include::overview.asciidoc[]

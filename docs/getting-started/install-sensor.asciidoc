@@ -1,5 +1,5 @@
-[[install-server]]
-== Install on Generic Server
+[[install-sensor]]
+== Install Distributed Sensor
 
 This is Installation Guide
 

@@ -1,5 +1,5 @@
-[[install-server]]
-== Install on Generic Server
+[[webconsole]]
+== Access Web Console
 
 This is Installation Guide
 

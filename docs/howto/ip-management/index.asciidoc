@@ -1,0 +1,5 @@
+[[ipaddress-management]]
+= IP Address Management
+
+include::howto-block-ip.asciidoc[]
+include::howto-reserve-ip.asciidoc[]

@@ -1,0 +1,8 @@
+[[network-requirements]]
+== Network Requirements
+
+[float]
+=== Network Connection for Policy Center
+
+[float]
+=== Network Connection for Sensor

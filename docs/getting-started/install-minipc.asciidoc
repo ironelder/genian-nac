@@ -1,5 +1,5 @@
-[[install-server]]
-== Install on Generic Server
+[[install-minipc]]
+== Install on Mini PC
 
 This is Installation Guide
 
