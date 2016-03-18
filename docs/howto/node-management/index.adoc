@@ -1,6 +1,6 @@
 [[node-management]]
 = Node Management
 
-include::howto-search.asciidoc[]
-include::howto-delete.asciidoc[]
-include::howto-change-table-column.asciidoc[]
+include::howto-search.adoc[]
+include::howto-delete.adoc[]
+include::howto-change-table-column.adoc[]

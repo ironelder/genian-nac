@@ -1,6 +1,6 @@
 [[howto]]
 = HowTo
 
-include::node-management/index.asciidoc[]
-include::ip-management/index.asciidoc[]
-include::switch-management/index.asciidoc[]
+include::node-management/index.adoc[]
+include::ip-management/index.adoc[]
+include::switch-management/index.adoc[]

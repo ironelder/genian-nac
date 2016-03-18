@@ -1,4 +1,4 @@
 [[troubleshooting]]
 = Troubleshooting
 
-include::password-recovery.asciidoc[]
+include::password-recovery.adoc[]
