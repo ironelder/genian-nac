@@ -1,0 +1,12 @@
+= Genian NAC Getting Started
+
+include::overview.adoc[]
+include::system-requirements.adoc[]
+include::network-requirements.adoc[]
+include::install-server.adoc[]
+include::install-minipc.adoc[]
+include::install-virtualmachine.adoc[]
+include::install-sensor.adoc[]
+include::initial-setup.adoc[]
+include::install-agent.adoc[]
+include::access-web-console.adoc[]

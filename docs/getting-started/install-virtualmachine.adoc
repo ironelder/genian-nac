@@ -2,8 +2,10 @@
 == Install on Virtual Machine
 This is Installation Guide
 
+[float]
 === VMWare ESXi
 sdlkjfsl
 
+[float]
 === Citrix Xen Server
 sdlfslkjlk
