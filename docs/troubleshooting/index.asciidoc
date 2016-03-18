@@ -1,0 +1,4 @@
+[[troubleshooting]]
+= Troubleshooting
+
+include::password-recovery.asciidoc[]
