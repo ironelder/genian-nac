@@ -1,4 +1,0 @@
-[[howto-reserve-ip]]
-== How to reserve specific IP for future use
-
-ldksjf

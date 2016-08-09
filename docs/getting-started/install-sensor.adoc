@@ -1,7 +1,0 @@
-[[install-sensor]]
-== Install Distributed Sensor
-
-This is Installation Guide
-
-[NOTE]
-This is notes

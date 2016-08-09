@@ -1,6 +1,0 @@
-[[node-management]]
-= Node Management
-
-include::howto-search.adoc[]
-include::howto-delete.adoc[]
-include::howto-change-table-column.adoc[]

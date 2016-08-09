@@ -1,6 +1,0 @@
-[[howto-search]]
-== How to search nodes
-
-ldksjf
-
-image::images/node-search.png[]

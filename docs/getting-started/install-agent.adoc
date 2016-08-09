@@ -1,7 +1,0 @@
-[[install-agent]]
-== Install Agent
-
-This is Installation Guide
-
-[NOTE]
-This is notes

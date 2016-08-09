@@ -1,4 +1,0 @@
-[[howto-delete]]
-== How to delete nodes
-
-ldksjf

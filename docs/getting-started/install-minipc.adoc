@@ -1,7 +1,0 @@
-[[install-minipc]]
-== Install on Mini PC
-
-This is Installation Guide
-
-[NOTE]
-This is notes

@@ -1,7 +1,0 @@
-[[install-server]]
-== Install on Generic Server
-
-This is Installation Guide
-
-[NOTE]
-This is notes

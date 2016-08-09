@@ -1,6 +1,0 @@
-[[howto]]
-= HowTo
-
-include::node-management/index.adoc[]
-include::ip-management/index.adoc[]
-include::switch-management/index.adoc[]

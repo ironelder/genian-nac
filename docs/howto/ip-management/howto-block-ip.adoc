@@ -1,4 +1,0 @@
-[[howto-block-ip]]
-== How to block specific IP
-
-ldksjf

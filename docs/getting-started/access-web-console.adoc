@@ -1,7 +1,0 @@
-[[webconsole]]
-== Access Web Console
-
-This is Installation Guide
-
-[NOTE]
-This is notes

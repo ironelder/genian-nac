@@ -1,4 +1,0 @@
-[[troubleshooting]]
-= Troubleshooting
-
-include::password-recovery.adoc[]
