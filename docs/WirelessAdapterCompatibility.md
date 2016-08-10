@@ -4,7 +4,6 @@ Supported Wireless Adapter
 
 Vendor | Model Name | Chipset | Type | Status
 ------------ | -------------------------- | ----------- | --------------- | -------------------------
-
 AFOUNDRY | AF-PP-ABGN-01 | RT2770 | |	 
 ALFA Network | AWUS050NH v1 | RT2770  | |		 
 ALFA Network | AWUS050NH v2 | RT2770 | |		 
