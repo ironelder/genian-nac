@@ -1,6 +1,4 @@
-Supported Wireless Adapter
-
-* CC: Confirmed by the Community
+See all wireless adapter compatible with Genian NAC. It can be confirmed by the community (Marked as "CC")
 
 Vendor | Model Name | Chipset | Type | Status
 ------------ | -------------------------- | ----------- | --------------- | -------------------------
